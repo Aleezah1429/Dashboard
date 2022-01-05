@@ -1,0 +1,22 @@
+.body{
+  background-color: #222 !important;
+  font-family: "auto";
+}
+
+.dashboard{
+  width: 90%;
+  justify-content: center;
+  text-align: center;
+}
+
+.Heading{
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 20px;
+  color: white;
+}
+
+.val{
+  font-size: 25px;
+  font-weight: bolder;
+}
